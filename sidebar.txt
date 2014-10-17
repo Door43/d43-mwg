@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mwg:home|Door43 (mwg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mwg|d43-mwg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mwg/archive/master.zip|d43-mwg.zip]]
+
+**Recent Changes**
+{{changes>ns = mwg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mwg|Ethnologue data]]
+
